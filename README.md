@@ -1,0 +1,1 @@
+Este repositorio es para las notas y practicas en jquery
